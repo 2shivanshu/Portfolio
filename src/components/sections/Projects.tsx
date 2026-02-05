@@ -28,7 +28,7 @@ const projects = [
     ],
     icon: Plane,
     gradient: "from-violet-500/20 to-purple-500/20",
-    link: "#", // Placeholder
+    link: "https://tourism-management-system-wirt.onrender.com",
   },
   {
     title: "SupplySense AI",

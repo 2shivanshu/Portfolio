@@ -69,6 +69,15 @@ const Navigation = () => {
                   {link.label}
                 </button>
               ))}
+              <a
+                href="/resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-4 py-2 bg-primary text-primary-foreground text-sm font-medium rounded-md hover:bg-primary/90 transition-colors"
+                download
+              >
+                Resume
+              </a>
             </div>
 
             {/* Mobile menu button */}
@@ -102,6 +111,15 @@ const Navigation = () => {
                     {link.label}
                   </button>
                 ))}
+                <a
+                  href="/resume.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-left text-primary font-medium hover:text-primary/80 transition-colors py-2 text-lg"
+                  download
+                >
+                  Resume
+                </a>
               </div>
             </div>
           </motion.div>

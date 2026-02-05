@@ -48,9 +48,13 @@ const Navigation = () => {
               }}
             >
               <img
-                src="https://media.licdn.com/dms/image/v2/D5603AQE_aZd8dssJ8g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707475206784?e=1772064000&v=beta&t=vsHKAqAxKXG_UJNvjdZx8ux1JFDC1cy9tRXr90VlT9"
+                src="/profile.jpg"
                 alt="Shivanshu Srivastava"
                 className="h-12 w-12 rounded-full object-cover border-2 border-primary/20 hover:border-primary transition-colors"
+                onError={(e) => {
+                  const target = e.target as HTMLImageElement;
+                  target.src = "https://github.com/2shivanshu.png"; // Fallback to GitHub avatar
+                }}
               />
             </a>
 

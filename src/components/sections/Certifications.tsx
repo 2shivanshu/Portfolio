@@ -3,6 +3,13 @@ import { Award, ExternalLink } from "lucide-react";
 
 const certifications = [
   {
+    title: "Infosys Certification",
+    issuer: "Infosys",
+    date: "2024",
+    description: "Professional certification awarded by Infosys.",
+    link: "/INFOSYS1.pdf",
+  },
+  {
     title: "ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM",
     issuer: "Infosys",
     date: "2024",

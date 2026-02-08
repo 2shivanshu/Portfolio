@@ -3,7 +3,7 @@ import { Award, ExternalLink } from "lucide-react";
 
 const certifications = [
   {
-    title: "Infosys Certification",
+    title: "Build Generative AI Apps and Solutions with No-Code Tools",
     issuer: "Infosys",
     date: "2024",
     description: "Professional certification awarded by Infosys.",

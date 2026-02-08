@@ -24,7 +24,7 @@ const certifications = [
     link: "/INFOSYS.pdf",
   },
   {
-    title: "FreeCodeCamp Certification",
+    title: "Responsive Design",
     issuer: "FreeCodeCamp",
     date: "2024",
     description: "Professional certification awarded by FreeCodeCamp.",

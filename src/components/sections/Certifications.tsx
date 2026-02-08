@@ -16,6 +16,13 @@ const certifications = [
     description: "Professional certification awarded by Infosys.",
     link: "/INFOSYS2.pdf",
   },
+  {
+    title: "Computational Theory: Language Principle & Finite Automata Theory",
+    issuer: "Infosys",
+    date: "2024",
+    description: "Professional certification awarded by Infosys.",
+    link: "/INFOSYS.pdf",
+  },
 ];
 
 const Certifications = () => {

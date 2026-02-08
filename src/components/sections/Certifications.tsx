@@ -37,6 +37,13 @@ const certifications = [
     description: "Professional certification awarded by Infosys.",
     link: "/Infosys Certificate AI.pdf",
   },
+  {
+    title: "C++ Programming: OOPs and DSA",
+    issuer: "Infosys",
+    date: "2024",
+    description: "Professional certification awarded by Infosys.",
+    link: "/CPPDSA.pdf",
+  },
 ];
 
 const Certifications = () => {

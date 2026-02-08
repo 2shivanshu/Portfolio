@@ -30,6 +30,13 @@ const certifications = [
     description: "Professional certification awarded by FreeCodeCamp.",
     link: "/FreeCodeCamp.Certificate.pdf",
   },
+  {
+    title: "Master Generative AI & Generative AI Tools (ChatGPT & More)",
+    issuer: "Infosys",
+    date: "2024",
+    description: "Professional certification awarded by Infosys.",
+    link: "/Infosys Certificate AI.pdf",
+  },
 ];
 
 const Certifications = () => {

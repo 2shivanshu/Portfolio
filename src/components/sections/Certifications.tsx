@@ -23,6 +23,13 @@ const certifications = [
     description: "Professional certification awarded by Infosys.",
     link: "/INFOSYS.pdf",
   },
+  {
+    title: "FreeCodeCamp Certification",
+    issuer: "FreeCodeCamp",
+    date: "2024",
+    description: "Professional certification awarded by FreeCodeCamp.",
+    link: "/FreeCodeCamp.Certificate.pdf",
+  },
 ];
 
 const Certifications = () => {

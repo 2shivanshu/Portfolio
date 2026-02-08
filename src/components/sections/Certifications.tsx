@@ -42,7 +42,7 @@ const certifications = [
     issuer: "Infosys",
     date: "2024",
     description: "Professional certification awarded by Infosys.",
-    link: "/CPPDSA.pdf",
+    link: "/cppdsa.pdf",
   },
 ];
 

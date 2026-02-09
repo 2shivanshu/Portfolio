@@ -42,7 +42,7 @@ const projects = [
     ],
     icon: BarChart3,
     gradient: "from-orange-500/20 to-amber-500/20",
-    link: "https://supplysense-ai.netlify.app/",
+    link: "https://supply-sense-ai-main-jk0eb9un1-shivanshus-projects-9365f54e.vercel.app/",
   },
 ];
 
